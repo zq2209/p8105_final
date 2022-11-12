@@ -38,3 +38,14 @@ The dataset includes detailed information of car accidents in 49 states of the U
 - Regression of crash time and number of accidents overall, and in different boroughs    
 - Association between visibility and number of accidents    
 
+## Potential challenging:
+- The process of data cleaning may be challenging because the dataset is complex.
+- It’s hard to build a regression model based on the first dataset, because the relationships between the responses and features like longitude, altitude, and vehicle types are hard to explain.
+- The variables involved in regression analysis come from two datasets, and the two datasets are intended to be combined according to time. However, the overlapped dates account for a small proportion, which may affect the regression analysis.
+
+## Planned timeline:
+- November 9-12: Choose the topic, confirm datasets, and write the proposal
+- November 13-18: Conduct the exploratory data analysis and process the data
+- November 19-24: Apply statistical methods to the dataset
+- November 25-30: Draft the report and develop our website
+- December 1-10: Finish the final report, website and screencast
