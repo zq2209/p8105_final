@@ -71,7 +71,7 @@ conditions.
     different boroughs  
 -   Association between visibility and number of accidents
 
-## Potential challenging:
+### Potential challenging:
 
 -   The process of data cleaning may be challenging because the dataset
     is complex.
