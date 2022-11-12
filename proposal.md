@@ -59,7 +59,7 @@ conditions.
 -   Find top common contributing factors of car accidents  
 -   Calculate and compare car accident rates in different districts  
 -   Analyze the severity of car accident casualties by districts  
--   Maps show the amount of accidents and locations(lat and lon)
+-   Maps show the amount of accidents and locations(lat and lng)
 
 ### Statistical analysis:
 

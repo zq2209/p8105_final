@@ -30,7 +30,7 @@ The dataset includes detailed information of car accidents in 49 states of the U
 - Find top common contributing factors of car accidents    
 - Calculate and compare car accident rates in different districts    
 - Analyze the severity of car accident casualties by districts    
-- Maps show the amount of accidents and locations(lat and lon)    
+- Maps show the amount of accidents and locations(lat and lng)    
 
 ### Statistical analysis:
 - Is there any statistically significant difference in the number of accidents in different boroughs    
