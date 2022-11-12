@@ -1,0 +1,38 @@
+proposal
+================
+2022-11-12
+
+# P8105 Final Project Proposal
+
+## Group members:
+
+Zining Qi(zq2209), Anjing Liu(al4225), Jiaoyang Li(jl6321), Jingyi
+Tian(jt3387)
+
+## Tentative project title:
+
+Car Accident in NYC
+
+## Motivation:
+
+Increasing car accidents has been a serious issue in New York City,
+which may cause serious threats to personal and property security. To
+reduce the number of car accidents, we will utilize the NYC car accident
+dataset in 2020 to analyze the factors contributing to accidents.
+Through data analysis, we will obtain the peak time period, concentrated
+areas, and main causes of accidents, aiming to effectively decrease the
+rate of car accidents taking place and further ensuring personal safety.
+
+## Intended final products:
+
+For our final project, we intend to build a website where we will
+perform exploratory and statistical analysis on the dataset of car
+accidents in New York City in 2020 and conduct related visualizations.
+For instance, we will explore during which time interval and in which
+borough most car accidents occur, and what the most common causes
+leading to car accidents are. The final products will also contain a
+screencast introducing the website.
+
+## Anticipated data sources:
+
+<https://www.kaggle.com/code/aqsasadaf/nyc-rush-hour-accidents/data>
