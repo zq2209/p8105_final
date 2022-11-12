@@ -21,7 +21,7 @@ reduce the number of car accidents, we will utilize the NYC car accident
 dataset in 2020 to analyze the factors contributing to accidents.
 Through data analysis, we will obtain the peak time period, concentrated
 areas, and main causes of accidents, aiming to effectively decrease the
-rate of car accidents taking place and further ensuring personal safety.
+rate of car accidents taking place and further ensure personal safety.
 
 ## Intended final products:
 
@@ -35,4 +35,38 @@ screencast introducing the website.
 
 ## Anticipated data sources:
 
-<https://www.kaggle.com/code/aqsasadaf/nyc-rush-hour-accidents/data>
+<https://www.kaggle.com/code/aqsasadaf/nyc-rush-hour-accidents/data>  
+This dataset contains motor vehicle collisions reported by the New York
+City Police Department from January to August in 2020. Each record
+represents an individual collision, including the date, time, and
+location of the accident (borough, zip code, street name,
+latitude/longitude), vehicles and victims involved, and contributing
+factors.
+
+<https://www.kaggle.com/datasets/sobhanmoosavi/us-accidents>  
+The dataset includes detailed information of car accidents in 49 states
+of the U.S. The dataset contains 2.8 million accident records. Besides
+locations of accidents, the dataset also includes weather conditions
+when accidents happened. We plan to use accidents that happened in New
+York city to analyze the association between accidents and weather
+conditions.
+
+## Planned analyses / visualizations / coding challenges:
+
+### Exploratory analysis and visualizations:
+
+-   Analyze the association between car accidents and time  
+-   Find top common contributing factors of car accidents  
+-   Calculate and compare car accident rates in different districts  
+-   Analyze the severity of car accident casualties by districts  
+-   Maps show the amount of accidents and locations(lat and lon)
+
+### Statistical analysis:
+
+-   Is there any statistically significant difference in the number of
+    accidents in different boroughs  
+-   Is there any statistically significant difference in accident
+    proportion in different months  
+-   Regression of crash time and number of accidents overall, and in
+    different boroughs  
+-   Association between visibility and number of accidents
