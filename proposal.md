@@ -44,14 +44,14 @@ latitude/longitude), vehicles and victims involved, and contributing
 factors.
 
 <https://www.kaggle.com/datasets/sobhanmoosavi/us-accidents>  
-The dataset includes detailed information of car accidents in 49 states
-of the U.S. The dataset contains 2.8 million accident records. Besides
-locations of accidents, the dataset also includes weather conditions
-when accidents happened. We plan to use accidents that happened in New
-York city to analyze the association between accidents and weather
+The dataset contains detailed information of car accidents in 49 states
+of the U.S., including 2.8 million accident records. Besides locations
+of accidents, the dataset also includes weather conditions when
+accidents happened. We plan to use accidents that happened in New York
+city to analyze the association between accidents and weather
 conditions.
 
-## Planned analyses / visualizations / coding challenges:
+## Planned analysis / visualizations / coding challenges:
 
 ### Exploratory analysis and visualizations:
 
@@ -68,10 +68,10 @@ conditions.
 -   Is there any statistically significant difference in accident
     proportion in different months  
 -   Regression of crash time and number of accidents overall, and in
-    different boroughs  
+    different boroughs
 -   Association between visibility and number of accidents
 
-### Potential challenging:
+### Potential coding challenges:
 
 -   The process of data cleaning may be challenging because the dataset
     is complex.
